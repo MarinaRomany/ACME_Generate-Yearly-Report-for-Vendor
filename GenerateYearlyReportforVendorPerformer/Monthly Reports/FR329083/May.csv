@@ -1,0 +1,6 @@
+InvoiceNumber,Item,Amount,Tax,Total,Currency,Date
+927120,"Professional Services",286345,57269,343614,RON,2017-05-02
+114562,"Waste management services",62326,12465.2,74791.2,USD,2017-05-08
+494069,"Concierge Services",91520,18304,109824,CAD,2017-05-05
+383326,"Concierge Services",104276,20855.2,125131,CAD,2017-05-17
+595829,"IT Support",246230,49246,295476,CAD,2017-05-08

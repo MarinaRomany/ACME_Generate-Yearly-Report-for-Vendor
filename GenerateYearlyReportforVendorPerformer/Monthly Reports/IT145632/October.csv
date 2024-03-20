@@ -1,0 +1,5 @@
+InvoiceNumber,Item,Amount,Tax,Total,Currency,Date
+968198,"Various paper supplies",243203,48640.6,291844,RON,2017-10-18
+120719,"Professional Services",200699,40139.8,240839,CAD,2017-10-22
+938493,"IT Support",129090,25818,154908,RON,2017-10-20
+894740,"IT Support",54055,10811,64866,CAD,2017-10-07
